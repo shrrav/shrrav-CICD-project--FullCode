@@ -18,5 +18,5 @@ variables:
   ado_service_connection_aml_ws: Azure-ARM-Prod
 
   # For pipeline reference
-  resource_group: MyNewResourceGreatLearning
-  aml_workspace: Shrrav
+  resource_group: default resource_group
+  aml_workspace: shriworkspace
